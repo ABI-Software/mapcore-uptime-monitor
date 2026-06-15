@@ -18,11 +18,12 @@ sites:
   - name: SPARC API
     url: http://api.sparc.science/health
     maxResponseTime: 10000
-
+assignees: # Users to assign downtime issues (optional)
+  - alan-wu
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: /mapcore-uptime-checker
+  baseUrl: /mapcore-uptime-checker
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/5274092?s=200&v=4
   name: MAPCore Server Status
