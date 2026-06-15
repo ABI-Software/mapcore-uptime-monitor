@@ -23,7 +23,7 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /mapcore-uptime-checker
+  baseUrl: /mapcore-uptime-monitor
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/5274092?s=200&v=4
   name: MAPCore Server Status
