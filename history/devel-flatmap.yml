@@ -1,7 +1,7 @@
 url: https://mapcore-demo.org/devel/flatmap/v4/
-status: up
-code: 200
-responseTime: 462
-lastUpdated: 2026-07-04T23:59:06.476Z
+status: down
+code: 503
+responseTime: 121
+lastUpdated: 2026-07-05T11:41:58.230Z
 startTime: 2026-06-15T00:11:57.323Z
 generator: Upptime <https://github.com/upptime/upptime>
