@@ -1,4 +1,4 @@
-# [📈 Live Status](https:///mapcore-uptime-checker): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://abi-software.github.io/mapcore-uptime-monitor/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Auckland Bioengineering Institute Software](https://www.auckland.ac.nz/en/abi/about-the-institute/software-development.html), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https:///mapcore-uptime-checker)
+[**Visit our status website →**](https://abi-software.github.io/mapcore-uptime-monitor/)
 
 ## 📄 License
 
